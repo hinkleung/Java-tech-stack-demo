@@ -1,7 +1,6 @@
 package com.bfxy.esjob.config;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 import com.bfxy.esjob.annotation.JobTraceInterceptor;
 
