@@ -1,0 +1,19 @@
+# ignore target folder
+target/
+
+# ignore Eclipse files
+.settings/
+build/
+.classpath
+.project
+.factorypath
+
+# ignore idea files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# ignore log files
+*.log
+*/.DS_Store
